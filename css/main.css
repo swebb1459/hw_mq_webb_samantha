@@ -7,3 +7,9 @@ body {
 		background: #5e5a80;
 	}
 }
+
+@media (min-width: 999px) {
+	body {
+		background: #008080;
+	}
+}
