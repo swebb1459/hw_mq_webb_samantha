@@ -1,0 +1,9 @@
+body {
+	background: #080808;
+}
+
+@media (min-width: 675px) {
+	body {
+		background: #5e5a80;
+	}
+}
