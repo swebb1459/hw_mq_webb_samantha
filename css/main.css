@@ -13,3 +13,9 @@ body {
 		background: #fdd017;
 	}
 }
+
+@media (max-width: 400px) {
+	body {
+		background: #e55451;
+	}
+}
